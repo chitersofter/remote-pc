@@ -54,4 +54,3 @@ flutter run
 - `test_suite.py`, `test_ai_and_fixes.py` — тесты проекта.
 
 Автор: [chitersofter](https://github.com/chitersofter).
-
